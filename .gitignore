@@ -1,0 +1,9 @@
+# Python environment
+.env
+
+# PDF
+*.[Pp][Dd][Ff]
+
+# MIDI
+*.[Mm][Ii][Dd]
+*.[Mm][Ii][Dd][Ii]
