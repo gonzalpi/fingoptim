@@ -1,2 +1,3 @@
-# optimal-piano-fingering
-Optimize fingering for a given piano score
+# FingOptim
+
+**Fingering Optimizer for Piano Scores**
